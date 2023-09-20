@@ -1,2 +1,1 @@
-# InfoSec-lectures
-Lectures and seminars for InfoSec subject
+# Лекции по дисциплине Обеспечение информационной безопасности инфокоммуникаций
